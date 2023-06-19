@@ -12,6 +12,9 @@
       "network": "ws",
       "kcpSettings": null,
       "wsSettings": {
+        "headers": {
+          "host": "qq.com"
+        },
         "path": "/ws"
       },
       "tcpSettings": null,
@@ -28,7 +31,7 @@
         {
           "alterId": 100,
           "security": "aes-128-gcm",
-          "id": "3f5c3ae0-aafe-5420-53e9-0e22adc5a4c0"
+          "id": "e2b39869-7e9e-411b-a561-00904419bed9"
         }
       ],
       "auth": null
